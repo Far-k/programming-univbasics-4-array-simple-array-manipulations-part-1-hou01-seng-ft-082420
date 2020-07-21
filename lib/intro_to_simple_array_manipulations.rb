@@ -12,4 +12,7 @@ def using_pop(array)
   return array.pop
 end
 
-array.pop
+array1 = ['helga', 'josh', 'peter', 'lungstrom']
+def pop_with_args(array)
+  return array.pop(2)
+end
