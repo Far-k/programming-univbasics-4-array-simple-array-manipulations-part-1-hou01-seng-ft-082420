@@ -11,4 +11,5 @@ array = ['apple', 'bat', 'corona']
 def using_pop(array)
   return array.pop
 end
+
 array.pop
