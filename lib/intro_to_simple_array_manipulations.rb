@@ -8,6 +8,6 @@ def using_unshift(array, string)
 end
 
 array = ['apple', 'bat', 'corona']
-def using_pop
+def using_pop(array)
   return array.pop
 end
