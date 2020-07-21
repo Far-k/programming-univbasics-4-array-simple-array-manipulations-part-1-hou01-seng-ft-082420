@@ -6,3 +6,8 @@ end
 def using_unshift(array, string)
   array.unshift(string)
 end
+
+array = ['apple', 'bat', 'corona']
+def using_pop
+  return array.pop
+end
