@@ -13,6 +13,10 @@ def using_pop(array)
 end
 
 array1 = ['helga', 'josh', 'peter', 'lungstrom']
-def pop_with_args(array)
-  return array.pop(2)
+def pop_with_args(array1)
+  return array1.pop(2)
+end
+
+def using_shift(array1)
+  return array1.shift
 end
