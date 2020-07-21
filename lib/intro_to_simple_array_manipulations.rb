@@ -6,12 +6,9 @@ def using_unshift(array, string)
   array.unshift(string)
 end
 
-def using_pop
-   array = ['neal', 'noah', 'nolan']
+array = ['neal', 'noah', 'nolan']
+def using_pop(array)
    array.pop(2)
-end
-
-
 end
 
 def pop_with_args(array)
