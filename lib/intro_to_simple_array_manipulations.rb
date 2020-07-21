@@ -1,3 +1,4 @@
+=begin
 def using_push(array, string)
   array.push(string)
 end
@@ -8,9 +9,10 @@ end
 
 array = ['neal', 'noah', 'nolan']
 def using_pop(array)
-   array.pop(2)
+   array.pop
 end
 
 def pop_with_args(array)
    pop_with_args.pop(2)
 end
+=end
